@@ -1,0 +1,38 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Tiramisu",
+            "points": [
+                [
+                    142.34527587890625,
+                    560.4351806640625
+                ],
+                [
+                    639.0,
+                    266.7688903808594
+                ],
+                [
+                    639.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    612.7200317382812
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "Tiramisu79_aug_3.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

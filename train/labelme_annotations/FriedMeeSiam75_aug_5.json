@@ -1,0 +1,46 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "FriedMeeSiam",
+            "points": [
+                [
+                    547.0427856445312,
+                    639.0
+                ],
+                [
+                    0.0,
+                    639.0
+                ],
+                [
+                    0.0,
+                    115.55687713623047
+                ],
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    639.0,
+                    0.0
+                ],
+                [
+                    639.0,
+                    639.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FriedMeeSiam75_aug_5.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

@@ -1,0 +1,34 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Orange",
+            "points": [
+                [
+                    119.4450454711914,
+                    515.3589477539062
+                ],
+                [
+                    523.219970703125,
+                    517.37060546875
+                ],
+                [
+                    522.1777954101562,
+                    116.85208892822266
+                ],
+                [
+                    119.42646789550781,
+                    116.36321258544922
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "Orange9_aug_0.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

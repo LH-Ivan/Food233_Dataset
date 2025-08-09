@@ -1,0 +1,34 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "HokkienMee",
+            "points": [
+                [
+                    24.4141902923584,
+                    261.85321044921875
+                ],
+                [
+                    379.3574523925781,
+                    22.29265022277832
+                ],
+                [
+                    618.0093994140625,
+                    377.8424072265625
+                ],
+                [
+                    260.3404846191406,
+                    619.222412109375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "HokkienMee84_aug_3.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

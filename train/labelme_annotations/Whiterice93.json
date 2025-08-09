@@ -1,0 +1,34 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "WhiteRice",
+            "points": [
+                [
+                    0.810126582278481,
+                    0.810126582278481
+                ],
+                [
+                    0.810126582278481,
+                    584.9113924050633
+                ],
+                [
+                    638.379746835443,
+                    583.2911392405064
+                ],
+                [
+                    639.1898734177215,
+                    2.430379746835443
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "Whiterice93.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

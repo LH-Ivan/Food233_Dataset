@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "ChickenPie",
+            "points": [
+                [
+                    0.0,
+                    40.23493957519531
+                ],
+                [
+                    146.35887145996094,
+                    0.0
+                ],
+                [
+                    639.0,
+                    0.0
+                ],
+                [
+                    639.0,
+                    557.7025146484375
+                ],
+                [
+                    281.9899597167969,
+                    464.7735595703125
+                ],
+                [
+                    0.0,
+                    428.5801696777344
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "ChickenPie56_aug_3.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}
